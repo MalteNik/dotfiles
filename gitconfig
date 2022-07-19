@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = geisenm64@gmail.com
+	name = Malte Geisen
